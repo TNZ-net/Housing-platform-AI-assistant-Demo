@@ -1,0 +1,3 @@
+n_batches: 12
+seed: 42
+drift_threshold: 0.25  # PSI above this = "this feature has shifted a lot"
