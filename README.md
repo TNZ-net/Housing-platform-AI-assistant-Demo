@@ -16,8 +16,17 @@ A small data platform that takes housing data from raw batches to a usable produ
 **Assistant UI**
 
 <p align="center">
-  <img src="docs/ui_assistant.png" alt="Housing Platform assistant UI" width="800" src="https://github.com/user-attachments/assets/aef1d047-abc4-403d-a3ce-df7b69e015b9"><br>
-  <b>Figure 1.</b> Assistant UI (Gradio)
+  <img src="https://github.com/user-attachments/assets/8d75667d-8c3c-4775-98a8-0abef1a2ccc1" alt="AI assistant interface" width="650">
+  <br>
+  <b>Figure 1. AI assistant interface (Gradio)</b>
+</p>
+
+Tool execution and testing
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7e5f4832-37ad-4aa6-8923-e6bf8d98c76c" alt="AI assistant tool execution results" width="650">
+  <br>
+  <b>Figure 2. Assistant tool execution and test results</b>
 </p>
 
 - **Question:** the input box for a plain-English question
