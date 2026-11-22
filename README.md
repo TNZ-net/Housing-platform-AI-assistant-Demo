@@ -34,7 +34,7 @@ Tool execution and testing
 - **Answer:** the assistant's final answer
 - **Tools used:** which tool the assistant called and with what arguments, so its behaviour is visible
 
-**Demo video** (silent, about 2 minutes): [Housing_predictor.zip](https://github.com/user-attachments/files/35228934/Housing_predictor.zip)
+**Demo video**: [Housing_predictor.zip](https://github.com/user-attachments/files/35228934/Housing_predictor.zip)
 
 The recording shows the API docs page returning a price and usage statistics, then the assistant answering a database question, a price question, and a question with missing details (it asks for the details instead of guessing), followed by the automated tests.
 
